@@ -4,5 +4,7 @@
 strategys
 
 w-b cptrade
+
 stock dca
+
 idk
