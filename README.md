@@ -8,3 +8,5 @@ w-b cptrade
 stock dca
 
 idk
+
+elliot wave analysis / wcof
